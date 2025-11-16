@@ -11,3 +11,4 @@ Summary of the project's core functionalities
 ## Non-functional Requirements
 
 ## Appendices
+Things related to the software's requirements but not included on the previous items can go here.
