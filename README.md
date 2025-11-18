@@ -1,5 +1,5 @@
 # solo-web-project-plan 🦧
-A series of `.md` files to plan your projects. Not strictly tied to the documents provided (e. g. you could replace 2_SRS.md with IEEE 830 if it fits your use case better).  
+A series of `.md` files to plan your projects. Not strictly tied to the documents provided (e. g. you could replace _2_SRS.md_ with _IEEE 830_ if it fits your use case better).  
 While it was though for **solo** and **web** projects, it can be adapted to work both with teams and different domains of software.
 
 ## Brief overview 🔍
@@ -14,8 +14,6 @@ While it was though for **solo** and **web** projects, it can be adapted to work
 
 ## Recommended use 🎯
 Clone the repo and add it to your project's main directory:  
-<img src="use_tree.png" width="50%" height="auto" />  
-(This image is hosted in the repository. Feel free to delete use_tree.png after cloning)
 
 ## Installation 🐣
 1. Using the `git clone` command:  
