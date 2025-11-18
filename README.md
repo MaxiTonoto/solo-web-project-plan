@@ -2,7 +2,7 @@
 A series of `.md` files to plan your projects. Not strictly tied to the documents provided (e. g. you could replace 2_SRS.md with IEEE 830 if it fits your use case better).  
 While it was though for **solo** and **web** projects, it can be adapted to work both with teams and different domains of software.
 
-## Brief overview
+## Brief overview 🔍
 - **0_List**: contains a Markdown checklist & a suggested order to complete the documents.  
 - **1_ProjectCharter**: defines most "macro" elements of the project, such as the _problem to solve_, _technical stack_ & _roadmap_.  
 - **2_SRS**: describes _core functionalities_, _constraints_ and _requirements_.  
@@ -21,7 +21,7 @@ Clone the repo and add it to your project's main directory:
 1. Using the `git clone` command:  
     - HTTPS: `https://github.com/MaxiTonoto/solo-web-project-plan.git`  
     - SSH: `git@github.com:MaxiTonoto/solo-web-project-plan.git`  
-2. Download the **.zip** using the `< > Code` button.  
+2. Download the **.zip** using the `<> Code` button.  
 3. Download the **.zip** using the `Releases` section.  
 
 ## What I learned 📚
@@ -29,3 +29,6 @@ Clone the repo and add it to your project's main directory:
 - 🗺️ To take a broad perspective on common requirements for solo development.  
 - 📃 The importance of documentation, not only for collaborative, but enjoyable work.  
 - ⚖️ To balance organizational concerns and the practical execution of the project
+
+## License 📃
+MIT License © 2025 [@MaxiTonoto](https://github.com/MaxiTonoto)
