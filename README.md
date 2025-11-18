@@ -4,5 +4,5 @@ While it was though for **solo** and **web** projects, you can adapt this to wor
 
 ## Recommended use
 Clone the repo and add it to your project's main directory:
-![Use example in directory tree](use_tree.svg "Use example in directory tree")
-(This svg is hosted in the repository. Feel free to delete use_tree.svg after cloning)
+<img src="use_tree.svg" width="50%"/>  
+(This svg is hosted in the repository. Feel free to delete use_tree.svg after cloning)]()
